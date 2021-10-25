@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/share?selection.family=Roboto:wght@100');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 *{
     margin: 0;
@@ -68,7 +68,6 @@ body{
 #menu .items li a{
     text-decoration: none;
     color: rgb(134,141, 151);
-    font-weight: 300px;
     transition: 0.3s ease;
 }
 
